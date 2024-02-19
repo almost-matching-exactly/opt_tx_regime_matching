@@ -1,0 +1,11 @@
+.idea/
+.ipynb_checkpoints
+__pycache__
+d3rlpy_logs/
+.DS_Store
+*.sif
+.cache
+.local
+.bash_history
+models/
+data/
